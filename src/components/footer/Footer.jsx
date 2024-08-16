@@ -99,7 +99,7 @@ const Footer = () => {
           >
             {" "}
             <span className="footer__light-color">Email:</span>{" "}
-            midhunkumar654@outlook.com
+            rajjashish1500@gmail.com
           </a>
         </div>
       </div>
