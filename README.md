@@ -4,9 +4,7 @@
   <h3 align="center">Shop smart, shop easy, shop now.</h3>
 
 
-  <p align="center">
-    <a href="https://shopcart-midhun.vercel.app/" target="_blank">View Demo</a>
-  </p>
+ 
 </p>
 
 <p align="center">Shopcart is an easy-to-use ecommerce platform where you can browse products, add items to your cart, and view detailed product information. You can also leave reviews to help others make informed purchasing decisions. As an admin, you have the ability to create, edit, and delete items, as well as you can see progress of orders shipment as user and manipulate it as admin.</p>
@@ -52,7 +50,7 @@
 - Either clone the repo or download the app and open the folder in the cli
 - To clone the repo locally by doing -
 ```sh
-git clone https://github.com/Midhunkumar-se/shopcart.git
+git clone https://github.com/ashishraj1408/ecommerce_task.git
 ```
 
 ### Step 2: Install dependencies
@@ -208,10 +206,7 @@ Only users who are logged in as the admin with the email 'admin@gmail.com' will 
   
   ## Author
 
-👤 **Midhun Kumar**
-
-- Linkedin: [@Midhun Kumar](https://www.linkedin.com/in/midhun-kumar-30b108273/)
-- Github: [@Midhun Kumar](https://github.com/Midhunkumar-se)
+👤 Ashish Raj
 
 ## Show your support
 

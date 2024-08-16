@@ -27,7 +27,7 @@ const Footer = () => {
       <div className={`footer`}>
         <div className="footer__links">
           <a
-            href="https://github.com/Midhunkumar-se"
+            href="https://github.com/ashishraj1408"
             target="_blank"
             rel="noreferrer"
           >
@@ -42,7 +42,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/midhun-kumar-30b108273/"
+            href="https://www.linkedin.com/in/ashish-raj-562137203/"
             target="_blank"
             rel="noreferrer"
           >
@@ -56,7 +56,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://twitter.com/MidhunKumar100"
+            href="https://www.linkedin.com/in/ashish-raj-562137203/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,7 +79,7 @@ const Footer = () => {
             }}
             className="footer__light-color"
           >
-            © 2023 Midhun Kumar. All rights Reserved.
+            © 2024 Ashish Raj. All rights Reserved.
           </p>
           |
           <a
